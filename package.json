@@ -2,7 +2,7 @@
 	"name": "iterm2-popping-and-locking",
 	"description": "iTerm2 theme based on https://github.com/hedinne/popping-and-locking-vscode",
 	"homepage": "https://github.com/psbarrales/hyper-popping-and-locking#readme",
-	"version": "1.0.1",
+	"version": "2.0.0",
 	"author": {
 		"email": "code@philsinatra.com",
 		"name": "Phil Sinatra",
