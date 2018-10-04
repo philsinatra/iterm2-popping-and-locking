@@ -1,21 +1,27 @@
 {
-	"name": "iterm2-popping-and-locking",
-	"description": "iTerm2 theme based on https://github.com/hedinne/popping-and-locking-vscode",
-	"homepage": "https://github.com/psbarrales/hyper-popping-and-locking#readme",
-	"version": "2.0.0",
-	"author": {
-		"email": "code@philsinatra.com",
-		"name": "Phil Sinatra",
-		"url": "philsinatra.com"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/psbarrales/hyper-popping-and-locking.git"
-	},
-	"bugs": {
-		"url": "https://github.com/psbarrales/hyper-popping-and-locking/issues"
-	},
-	"keywords": ["popping-and-locking", "iterm2", "iterm2-theme"],
-	"files": ["popping-and-locking.itermcolors"],
-	"license": "MIT"
+  "name": "iterm2-popping-and-locking",
+  "description": "iTerm2 theme based on https://github.com/hedinne/popping-and-locking-vscode",
+  "homepage": "https://github.com/philsinatra/iterm2-popping-and-locking/blob/master/README.md",
+  "version": "2.0.0",
+  "author": {
+    "email": "code@philsinatra.com",
+    "name": "Phil Sinatra",
+    "url": "philsinatra.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philsinatra/iterm2-popping-and-locking.git"
+  },
+  "bugs": {
+    "url": "https://github.com/philsinatra/iterm2-popping-and-locking/issues"
+  },
+  "keywords": [
+    "popping-and-locking",
+    "iterm2",
+    "iterm2-theme"
+  ],
+  "files": [
+    "popping-and-locking.itermcolors"
+  ],
+  "license": "MIT"
 }
